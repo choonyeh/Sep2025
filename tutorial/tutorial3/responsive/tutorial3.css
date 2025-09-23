@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background-color: #f4f4f9;
+  background-color: #fceff9;
   display: flex;
   flex-direction: column;
   height: 100vh;
@@ -123,3 +123,4 @@ body {
   }
 
 }
+
