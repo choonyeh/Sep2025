@@ -49,7 +49,8 @@ body {
 .student-table {
   width: 100%;
   max-width: 100%;
-  overflow-x: auto;  
+  overflow-x: auto; 
+  margin: 20px auto; 
 }
 
 .student-table table {
@@ -66,7 +67,6 @@ body {
   word-wrap: break-word;
   white-space: normal;
 }
-
 
 .student-table a {
   text-decoration: none;
@@ -104,7 +104,7 @@ body {
 }
 
 
-/* screens ≤768px (mobile) */
+/* screens ≤768px (tablet) */
 @media (max-width: 768px) {
 
   body {
@@ -150,6 +150,3 @@ body {
   }
 
 }
-
-
-
