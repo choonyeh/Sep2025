@@ -48,21 +48,25 @@ body {
 
 .student-table {
   width: 100%;
+  max-width: 100%;
   overflow-x: auto;  
-  margin: 20px auto;
 }
 
 .student-table table {
   width: 100%;
   border-collapse: collapse;
   background: #FFEFD5;
+  table-layout: auto; 
 }
 
 .student-table td {
   border: 1px solid #ddd;
   padding: 8px;
   text-align: center;
+  word-wrap: break-word;
+  white-space: normal;
 }
+
 
 .student-table a {
   text-decoration: none;
@@ -146,5 +150,6 @@ body {
   }
 
 }
+
 
 
