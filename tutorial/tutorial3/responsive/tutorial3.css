@@ -77,6 +77,29 @@ body {
 
 
 
+/* screens ≤360px (mobile) */
+@media (max-width: 360px) {
+  body {
+    font-size: 12px;
+    padding: 3px;
+  }
+
+  .top-frame {
+    height: 22%;   /* slightly taller for small devices */
+  }
+
+  .bottom-frame {
+    height: 78%;
+  }
+
+  .content {
+    font-size: 12px;
+    padding: 10px;
+    margin: 5px;
+  }
+}
+
+
 /* screens ≤768px (mobile) */
 @media (max-width: 768px) {
 
@@ -123,4 +146,5 @@ body {
   }
 
 }
+
 
