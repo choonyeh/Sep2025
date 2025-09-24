@@ -79,12 +79,12 @@ body {
 /* screens ≤360px (mobile) */
 @media (max-width: 360px) {
   body {
-    font-size: 11px;
+    font-size: 10px;
     padding: 3px;
   }
 
   .top-frame {
-    height: 22%;   /* slightly taller for small devices */
+    height: 22%;   
   }
 
   .bottom-frame {
@@ -92,18 +92,18 @@ body {
   }
 
   .content {
-    font-size: 11px;
+    font-size: 10px;
     padding: 10px;
     margin: 5px;
   }
 
   .student-list {
-    gap: 5px;
+    gap: 2px;
   }
 
   .student-list li {
     flex: 1 1 100%;
-    padding: 5px;
+    padding: 2px;
   }
 
 }
@@ -167,4 +167,5 @@ body {
 
 
 }
+
 
