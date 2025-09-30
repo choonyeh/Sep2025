@@ -84,11 +84,11 @@ body {
   }
 
   .top-frame {
-    height: 25%;   
+    height: 50%;   
   }
 
   .bottom-frame {
-    height: 75%;
+    height: 50%;
   }
 
   .content {
@@ -167,6 +167,7 @@ body {
 
 
 }
+
 
 
 
