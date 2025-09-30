@@ -113,16 +113,16 @@ body {
 @media (max-width: 768px) {
 
   body {
-    font-size: 12px;
-    padding: 5px;
+    font-size: 11px;
+    padding: 1px;
   }
 
   .top-frame {
-    height: 20%;   /* taller header for smaller screens */
+    height: 15%;   
   }
 
   .bottom-frame {
-    height: 80%;
+    height: 85%;
   }
 
   .content {
@@ -132,9 +132,9 @@ body {
   }
 
   .student-list li {
-    flex: 1 1 20%;
-    font-size: 12px;
-    margin: 5px;
+    flex: 1 1 11%;
+    font-size: 11px;
+    margin: 1px;
   }
 
 }
@@ -144,7 +144,7 @@ body {
 @media (min-width: 769px) {
 
   body {
-    font-size: 13px;
+    font-size: 12px;
   }
 
   .top-frame {
@@ -167,5 +167,6 @@ body {
 
 
 }
+
 
 
