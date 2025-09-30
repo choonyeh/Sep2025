@@ -98,7 +98,7 @@ body {
   }
 
   .student-list {
-    gap: 1px;
+    gap: 5px;
   }
 
   .student-list li {
@@ -167,6 +167,7 @@ body {
 
 
 }
+
 
 
 
