@@ -98,13 +98,11 @@ body {
   }
 
   .student-list {
-    display: flex;
-    flex-wrap: wrap; 
     gap: 1px;
   }
 
   .student-list li {
-    flex: 1 1 100%;
+    flex: 1 1 50%;
     padding: 1px;
   }
 
@@ -169,6 +167,7 @@ body {
 
 
 }
+
 
 
 
