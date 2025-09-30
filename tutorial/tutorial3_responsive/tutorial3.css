@@ -102,8 +102,8 @@ body {
   }
 
   .student-list li {
-    flex: 1 1 75%;
-    padding: 1px;
+    flex: 1 1 60%;
+    padding: 2px;
   }
 
 }
@@ -167,6 +167,7 @@ body {
 
 
 }
+
 
 
 
