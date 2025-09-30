@@ -84,11 +84,11 @@ body {
   }
 
   .top-frame {
-    height: 22%;   
+    height: 25%;   
   }
 
   .bottom-frame {
-    height: 78%;
+    height: 75%;
   }
 
   .content {
@@ -98,11 +98,11 @@ body {
   }
 
   .student-list {
-    gap: 5px;
+    gap: 2px;
   }
 
   .student-list li {
-    flex: 1 1 80%;
+    flex: 1 1 90%;
     padding: 1px;
   }
 
@@ -167,6 +167,7 @@ body {
 
 
 }
+
 
 
 
