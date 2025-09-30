@@ -80,7 +80,7 @@ body {
 @media (max-width: 360px) {
   body {
     font-size: 10px;
-    padding: 3px;
+    padding: 1px;
   }
 
   .top-frame {
@@ -98,12 +98,12 @@ body {
   }
 
   .student-list {
-    gap: 2px;
+    gap: 1px;
   }
 
   .student-list li {
     flex: 1 1 100%;
-    padding: 2px;
+    padding: 1px;
   }
 
 }
@@ -167,6 +167,7 @@ body {
 
 
 }
+
 
 
 
